@@ -1,1 +1,1 @@
-# niryellinek.github.io
+# 3VL: using Trees to teach Vision & Language models compositional concepts
